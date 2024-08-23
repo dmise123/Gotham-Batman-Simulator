@@ -1,23 +1,23 @@
-# Proyek Batman Gotham Simulator
+# Batman Gotham Simulator
 
-## Deskripsi
-Proyek ini adalah simulator sederhana di mana Batman menjelajahi kota Gotham tanpa adanya musuh. Ini adalah simulasi lingkungan yang memungkinkan Batman untuk bergerak di kota dan mengalami dunia Gotham dalam format game.
+## Description
+This project is a simple simulator where Batman explores the city of Gotham without encountering any enemies. It is an environmental simulation that allows Batman to navigate the city and experience the Gotham world in a game format.
 
-## Link File ZIP
-Anda dapat mengunduh file ZIP proyek dari Google Drive dengan menggunakan tautan berikut:
+## ZIP File Link
+You can download the ZIP file of the project from Google Drive using the following link:
 
-[Download Proyek Batman Gotham Simulator](https://drive.google.com/file/d/1oMPPm48765DCUhbGH0nLRDbDwiCLt7og/view?usp=sharing)
+[Download Batman Gotham Simulator Project](https://drive.google.com/file/d/1oMPPm48765DCUhbGH0nLRDbDwiCLt7og/view?usp=sharing)
 
-## Struktur Folder
-- `assets/`: Berisi semua gambar, model 3D, dan resource yang diperlukan untuk proyek.
-- `src/`: Kode sumber untuk simulator.
-- `docs/`: Dokumentasi proyek.
+## Folder Structure
+- `assets/`: Contains all images, 3D models, and resources required for the project.
+- `src/`: Source code for the simulator.
+- `docs/`: Project documentation.
 
-## Cara Menjalankan Proyek
-1. **Unduh File ZIP**: Klik tautan di atas untuk mengunduh file ZIP.
-2. **Ekstrak File**: Ekstrak file ZIP ke folder lokal di komputer Anda.
-3. **Instalasi**: Ikuti petunjuk instalasi yang terdapat di dalam folder `docs/`.
-4. **Jalankan Simulator**: Setelah instalasi, jalankan simulator dengan mengikuti petunjuk yang ada di dalam `docs/` atau lihat file README di dalam folder proyek yang telah diekstrak.
+## How to Run the Project
+1. **Download the ZIP File**: Click the link above to download the ZIP file.
+2. **Extract the File**: Extract the ZIP file to a local folder on your computer.
+3. **Installation**: Follow the installation instructions found in the `docs/` folder.
+4. **Run the Simulator**: After installation, run the simulator by following the instructions in the `docs/` or refer to the README file within the extracted project folder.
 
-## Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan lakukan fork pada repository ini dan kirimkan pull request dengan perubahan yang Anda buat.
+## Contributing
+If you would like to contribute to this project, please fork this repository and submit a pull request with your changes.
